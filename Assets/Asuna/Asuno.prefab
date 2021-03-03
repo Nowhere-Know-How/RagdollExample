@@ -222,7 +222,8 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -384,9 +385,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2177878611887328456}
   m_AABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0, y: 0, z: 0}
-  m_DirtyAABB: 1
+    m_Center: {x: -0.0017610639, y: 1.274575, z: -0.049485847}
+    m_Extent: {x: 0.13402548, y: 0.41452312, z: 0.15657863}
+  m_DirtyAABB: 0
 --- !u!1 &1211612244665351340
 GameObject:
   m_ObjectHideFlags: 0
@@ -1258,7 +1259,8 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1399,9 +1401,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2177878611887328456}
   m_AABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0, y: 0, z: 0}
-  m_DirtyAABB: 1
+    m_Center: {x: 0.00015055388, y: 1.5456829, z: 0.031206155}
+    m_Extent: {x: 0.097414464, y: 0.11633432, z: 0.07390661}
+  m_DirtyAABB: 0
 --- !u!1 &3084286630001896852
 GameObject:
   m_ObjectHideFlags: 0
@@ -2538,7 +2540,8 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -2674,9 +2677,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 2177878611887328456}
   m_AABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0, y: 0, z: 0}
-  m_DirtyAABB: 1
+    m_Center: {x: 0.00014814734, y: 0.8366027, z: 0.008258596}
+    m_Extent: {x: 0.7106029, y: 0.8365252, z: 0.1285609}
+  m_DirtyAABB: 0
 --- !u!1 &6424375633860395287
 GameObject:
   m_ObjectHideFlags: 0
